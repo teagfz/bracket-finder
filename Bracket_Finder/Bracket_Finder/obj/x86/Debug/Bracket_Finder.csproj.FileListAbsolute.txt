@@ -1,0 +1,9 @@
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\obj\x86\Debug\Bracket_Finder.frmMain.resources
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\obj\x86\Debug\Bracket_Finder.Properties.Resources.resources
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\bin\Debug\Bracket_Finder.exe
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\bin\Debug\Bracket_Finder.pdb
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\obj\x86\Debug\Bracket_Finder.exe
+c:\documents and settings\topaz\my documents\visual studio 2010\Projects\Bracket_Finder\Bracket_Finder\obj\x86\Debug\Bracket_Finder.pdb
