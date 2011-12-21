@@ -151,6 +151,21 @@ namespace Bracket_Finder
                 txtCode.Text = cotent;
             }
         }
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+            /*txtCode.AllowDrop = true;
+            txtCode.DragDrop += new DragEventHandler(txtCode_DragDrop);
+            txtCode.DragEnter += new DragEventHandler(txtCode_DragEnter);*/
+        }
+        /*private void txtCode_DragEnter(object sender, DragEventArgs e)
+        {
+            if (e.Data.GetDataPresent(DataFormats.Text)) e.Effect = DragDropEffects.Copy;
+        }
+        private void txtCode_DragDrop(object sender, DragEventArgs e)
+        {
+            txtCode.Clear();    
+            MessageBox.Show(e.Data.GetData(DataFormats.Text, true).ToString());
+        }*/
         #endregion
     }
     #endregion

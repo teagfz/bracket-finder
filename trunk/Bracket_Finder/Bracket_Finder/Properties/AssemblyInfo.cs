@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Bracket_Finder")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Bracket Finder")]
+[assembly: AssemblyDescription("Bracket Finder is an open source application written in CSharp for a GTA San Andreas multi-player mod called SA-MP. It's mainly used for finding missing curly braces on pawn because the pawn compiler cannot detect it.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Xtra Softs")]
-[assembly: AssemblyProduct("Bracket_Finder")]
-[assembly: AssemblyCopyright("Copyright © Xtra Softs 2011")]
+[assembly: AssemblyCompany("Stanopolo")]
+[assembly: AssemblyProduct("Bracket Finder")]
+[assembly: AssemblyCopyright("Copyright © Stanopolo 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.1.0.0")]
+[assembly: AssemblyFileVersion("0.1.0.0")]
