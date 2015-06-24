@@ -1,0 +1,1 @@
+Bracket Finder is an open source application written in CSharp for a GTA San Andreas multi-player mod called SA-MP. It's mainly used for finding missing curly braces on pawn because the pawn compiler cannot detect it.
